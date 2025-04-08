@@ -515,3 +515,7 @@ body{
 .appear-4 {
     opacity: 0%;
 }
+
+.grid-appear {
+    opacity: 0;
+}
